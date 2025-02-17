@@ -29,6 +29,10 @@
 		{
 			"Name": "Spatialization",
 			"Enabled": true
+		},
+		{
+			"Name": "SteamController",
+			"Enabled": true
 		}
 	]
 }
